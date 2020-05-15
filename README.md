@@ -1,7 +1,7 @@
 # Dome9 Azure Sizing Tool
 
 What does this tool do?
-=======================
+-----------------------
 Sizer connects to Azure subscriptions on a single Azure AD tenant to estimate Dome9 licensing costs. We collect statistics for Virtual Machine instances and SQL Servers. 
 
 Pre-requisites
