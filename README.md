@@ -1,7 +1,7 @@
 What does this script do?
 -------------------------
 
-Sizer logs into an Azure AD tenant, obtains a list of all subscriptions attached to it and then collects statistics on **Virtual Machines** and **SQL Servers** for Dome9 licensing purposes. As **D0** and **A0** instance types are not billable assets, these are exempted from the final figures.
+Sizer logs into an Azure AD tenant, obtains a list of all subscriptions attached to it and then collects statistics on **Virtual Machines** and **SQL Servers** for *indicative* Dome9 licensing purposes. As **D0** and **A0** instance types are not billable assets, these are exempted from the final figures.
 
 Pre-requisites
 --------------
