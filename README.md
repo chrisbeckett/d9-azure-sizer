@@ -16,7 +16,7 @@ To run this script, you will need the following:-
     - Azure **Application (Client) ID**
     - Azure **Application (Client) Secret Key**
     
-4) You will need the **Azure Management Group** construct configured against your Azure AD (see *https://docs.microsoft.com/en-us/azure/governance/management-groups/overview* for further information). This is so that any new subscriptions added against the Azure AD tenant are visible to the onboarding tool. **Adding the Application ID as a Contributor in the IAM Access Control blade in the Tenant Root Group will provide this capability.**
+4) You will need the **Azure Management Group** construct configured against your Azure AD (see *https://docs.microsoft.com/en-us/azure/governance/management-groups/overview* for further information). **Adding the Application ID as a Contributor in the IAM Access Control blade in the Tenant Root Group will provide discovery capability.**
 
 5) Run **git clone https://github.com/chrisbeckett/d9-azure-sizer.git**
 
