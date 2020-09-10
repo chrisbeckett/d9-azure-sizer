@@ -6,7 +6,7 @@ Sizer logs into an Azure AD tenant, obtains a list of all subscriptions attached
 Standalone Windows executable
 -----------------------------
 
-If you need to run the tool as a one off and don't want the faff of all the steps below, you can download the ZIP archive. This is a portable version of the tool for Windows only, all batteries included. Download and extract the ZIP and run **d9-azure-sizer.exe**. For a Linux or Mac version of this, please open an issue and I will address this.
+If you need to run the tool as a one off and don't want the faff of all the steps below, you can download the ZIP archive. This is a portable version of the tool for Windows only, all batteries included. Download and extract the ZIP and run **d9-azure-sizer.exe**. For a Linux or Mac version of this, please open an issue and I will address this. Remember to set environment variables prior to running the tool (see below).
 
 Pre-requisites
 --------------
