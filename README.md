@@ -14,7 +14,7 @@ What's New? (8th January 2021)
 - New MacOS standalone executable
 - Updated to reflect the changes in licensing for serverless functions (6:1 ratio of functions to single asset license)
 
-Standalone Windows executable
+Standalone executable
 -----------------------------
 
 If you need to run the tool as a one off and don't want the faff of all the steps below, you can download the ZIP archive. This is a portable version of the tool for Windows or Mac, all batteries included. Download and extract the appropriate platform ZIP and run the executable.
